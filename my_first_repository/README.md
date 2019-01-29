@@ -1,1 +1,1 @@
-setting up github 
+i created a new repository, i initialized git. 
