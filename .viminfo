@@ -25,19 +25,23 @@
 	
 
 # File marks:
-'0  1  2  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-'1  1  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
-'2  1  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
-'3  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
-'4  1  70  ~/holbertonschool-zero_day/README.md
-'5  1  0  ~/holbertonschool-zero_day/6-end_line
-'6  1  6  ~/holbertonschool-zero_day/5-beginning_line
-'7  1  9  ~/holbertonschool-zero_day/4-exiting
-'8  1  0  ~/holbertonschool-zero_day/3-undoing
-'9  1  0  ~/holbertonschool-zero_day/2-pasting
+'0  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+'1  1  0  ~/up_to_date
+'2  1  0  ~/Vagrantfile
+'3  13  33  ~/Vagrantfile
+'4  1  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
+'5  1  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
+'6  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
+'7  1  70  ~/holbertonschool-zero_day/README.md
+'8  1  0  ~/holbertonschool-zero_day/6-end_line
+'9  1  6  ~/holbertonschool-zero_day/5-beginning_line
 
 # Jumplist (newest first):
--'  1  2  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+-'  1  0  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+-'  1  0  ~/up_to_date
+-'  2  0  ~/up_to_date
+-'  1  0  ~/Vagrantfile
+-'  13  33  ~/Vagrantfile
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
 -'  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
@@ -130,19 +134,26 @@
 -'  1  151  ~/holbertonschool-zero_day/0x00-vagrant/README.md
 -'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
 -'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
--'  1  151  ~/holbertonschool-zero_day/0x00-vagrant/README.md
--'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
--'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
--'  1  0  ~/holbertonschool-zero_day/0-inserting
--'  1  151  ~/holbertonschool-zero_day/0x00-vagrant/README.md
 
 # History of marks within files (newest to oldest):
 
 > ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-	"	1	2
+	"	1	0
 	^	1	3
 	.	1	2
 	+	1	2
+
+> ~/up_to_date
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/Vagrantfile
+	"	1	0
+	^	1	0
+	.	13	33
+	+	13	33
 
 > ~/holbertonschool-zero_day/0x02-vi/3-undoing
 	"	1	0
