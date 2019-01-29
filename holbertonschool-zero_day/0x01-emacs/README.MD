@@ -1,0 +1,1 @@
+this is a basic emacs file where i tried out few basic commands which was a part of the submission.
