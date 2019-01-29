@@ -25,18 +25,19 @@
 	
 
 # File marks:
-'0  1  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
-'1  1  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
-'2  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
-'3  1  70  ~/holbertonschool-zero_day/README.md
-'4  1  0  ~/holbertonschool-zero_day/6-end_line
-'5  1  6  ~/holbertonschool-zero_day/5-beginning_line
-'6  1  9  ~/holbertonschool-zero_day/4-exiting
-'7  1  0  ~/holbertonschool-zero_day/3-undoing
-'8  1  0  ~/holbertonschool-zero_day/2-pasting
-'9  1  0  ~/holbertonschool-zero_day/1-cutting
+'0  1  2  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+'1  1  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
+'2  1  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
+'3  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
+'4  1  70  ~/holbertonschool-zero_day/README.md
+'5  1  0  ~/holbertonschool-zero_day/6-end_line
+'6  1  6  ~/holbertonschool-zero_day/5-beginning_line
+'7  1  9  ~/holbertonschool-zero_day/4-exiting
+'8  1  0  ~/holbertonschool-zero_day/3-undoing
+'9  1  0  ~/holbertonschool-zero_day/2-pasting
 
 # Jumplist (newest first):
+-'  1  2  ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/3-undoing
 -'  1  0  ~/holbertonschool-zero_day/0x02-vi/2-pasting
 -'  1  1  ~/holbertonschool-zero_day/0x02-vi/1-cutting
@@ -134,9 +135,14 @@
 -'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
 -'  1  0  ~/holbertonschool-zero_day/0-inserting
 -'  1  151  ~/holbertonschool-zero_day/0x00-vagrant/README.md
--'  1  4  ~/holbertonschool-zero_day/0x00-vagrant/0-hello_ubuntu
 
 # History of marks within files (newest to oldest):
+
+> ~/holberton-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/holbertonschool-zero_day/0x02-vi/3-undoing
 	"	1	0
